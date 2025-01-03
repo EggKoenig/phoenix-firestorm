@@ -9,13 +9,11 @@
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
 		"ghcr.io/devcontainers/features/git:1": {},
 		"ghcr.io/devcontainers/features/git-lfs:1": {},
-		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {},
 		"ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {},
 		"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {},
 		"ghcr.io/devcontainers-community/features/direnv:1": {},
 		"ghcr.io/devcontainers-extra/features/git-lfs:1": {},
 		"ghcr.io/devcontainers-extra/features/neofetch:1": {},
-		"ghcr.io/devcontainers-extra/features/neovim-apt-get:1": {},
 		"ghcr.io/devcontainers-extra/features/zsh-plugins:0": {},
 		"ghcr.io/sebst/devcontainer-features/desktop-xserver:0": {}
 	}
